@@ -1,6 +1,6 @@
 [user]
   name = Jeff Kight
-  email = jeff@kight.net
+  email = jeff.kight@hpe.com
 [core]
   editor = vi
   excludesfile = ~/.gitignore
